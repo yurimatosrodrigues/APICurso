@@ -24,7 +24,7 @@ public class CursoEntity implements Serializable{
 		
 	}
 	
-	public CursoEntity(String nome, String Sigla) {
+	public CursoEntity(String nome, String sigla) {
 		super();
 		this.nome = nome;
 		this.sigla = sigla;
